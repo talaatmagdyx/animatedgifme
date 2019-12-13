@@ -10,14 +10,14 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q(A ruby Library for http://animatedgif.me)
   spec.description   = %q(A ruby Library for http://animatedgif.me)
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/TalaatMagdy/animatedgifme"
   spec.license       = 'MIT'
 
   # spec.metadata['allowed_push_host'] = ""
 
-  # spec.metadata['homepage_uri'] = spec.homepage
-  # spec.metadata['source_code_uri'] = ""
-  # spec.metadata['changelog_uri'] = ""
+   spec.metadata['homepage_uri'] = spec.homepage
+   spec.metadata['source_code_uri'] = "https://github.com/TalaatMagdy/animatedgifme"
+   spec.metadata['changelog_uri'] = "https://github.com/TalaatMagdy/animatedgifme"
 
   # Specify which files should be added to the gem when it is released.
   # The `git ls-files -z` loads the files in the RubyGem that have been added into git.
